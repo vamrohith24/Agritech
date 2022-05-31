@@ -1,0 +1,81 @@
+.main {
+  width: 600px;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welcome {
+  font-size: 28px;
+  font-weight: 600;
+  color: #1c8b3c;
+  text-align: center;
+  margin-bottom: 30px;
+ }
+
+.radio-box {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+ }
+.radio-inline {
+  margin: 0 10px;
+}
+
+.form-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.form-item .label {
+  font-size: 16px;
+  font-weight: 500;
+  width: 140px;
+}
+
+.form-item input,.form-item .input {
+  width: 300px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.ship-radio-box {
+  width: 340px;
+  display: flex;
+  align-items: center;
+}
+
+.ship-radio-box input {
+  width: auto;
+  margin-right: 4px;
+}
+
+.ship-radio-box .radio-inline {
+  display: flex;
+  align-items: center;
+  margin: 0 12px;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+
+.btns button {
+  width: 100px;
+  height: 40px;
+  font-size: 18px;
+  color: #232323;
+  background: green;
+  border-radius: 5px;
+}
+
+.btns .cancel-btn {
+  background: red !important;
+  margin-left: 40px;
+}

@@ -1,0 +1,37 @@
+.banner {
+  display: block;
+  width: 100%;
+ }
+.module {
+  padding: 50px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+ }
+.module .article {
+  width: 600px;
+  margin-right: 60px;
+ }
+.module .bg {
+  max-width: 450px;
+  max-height: 350px;
+ }
+.module .title {
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-weight: 600;
+ }
+.module .desc {
+  color: #08180c;
+  font-size: 22px;
+  line-height: 35px;
+  font-weight: 400;
+ }
+.green-bg {
+  background: #f4fdf3!important;
+ }
+.green-bg .article {
+  margin-right: 0;
+  margin-left: 60px;
+ }

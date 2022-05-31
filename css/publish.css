@@ -1,0 +1,58 @@
+.banner {
+  display: block;
+  width: 100%;
+}
+
+.path {
+  font-size: 16px;
+  color: #232323;
+  padding: 30px 20px;
+}
+
+
+.form-box {
+  width: 600px;
+  margin: 50px auto;
+}
+
+.form-box .name {
+  font-size: 18px;
+  color: #232323;
+  margin-bottom: 4px;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  resize: none;
+  padding: 10px;
+  outline: none;
+  font-size: 16px;
+}
+
+.upload {
+  display: block;
+  margin: 10px 0;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.btns button {
+  width: 100px;
+  height: 40px;
+  font-size: 18px;
+  color: #232323;
+  background: green;
+  border-radius: 5px;
+}
+
+.btns .cancel-btn {
+  background: red !important;
+  margin-left: 40px;
+ }
