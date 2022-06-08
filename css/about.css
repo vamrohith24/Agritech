@@ -1,3 +1,7 @@
+html*{
+  font-family: Helvetica, Sans-Serif;
+}
+
 .banner {
   display: block;
   width: 100%;
