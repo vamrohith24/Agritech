@@ -12,14 +12,16 @@ html*{
   align-items: center;
   justify-content: center;
   background: #fff;
+
  }
 .module .article {
   width: 600px;
   margin-right: 60px;
  }
 .module .bg {
-  max-width: 450px;
-  max-height: 350px;
+  max-width: 150px;
+
+   height: auto;
  }
 .module .title {
   font-size: 30px;

@@ -13,6 +13,7 @@ button {
   cursor: pointer;
  }
 
+
 body {
   padding-top: 60px;
  }
@@ -30,17 +31,19 @@ body {
   justify-content: space-between;
  }
 .header .logo {
-  height: 36px;
+  height: 46px;
  }
 .header .menu {
   height: 36px;
   display: flex;
   align-items: center;
  }
+
 .header .menu li {
   height: 100%;
   margin: 0 30px;
  }
+
 .header .menu a {
   display: block;
   height: 100%;
@@ -78,6 +81,7 @@ body {
 .footer-content {
   display: flex;
  }
+
 .footer .footer-title {
   font-size: 48px;
   color: #248E34;
@@ -100,6 +104,7 @@ body {
 .footer .footer-menus .item .value{
   color: #fff;
  }
+
 .footer .footer-menus .btn {
   background: #555;
   color: #248E34;
@@ -109,7 +114,9 @@ body {
   cursor: pointer;
   border-radius: 10px;
   margin-top: 20px;
+  font-family: sans-serif;
  }
+
 .footer-links {
   display: flex;
   flex-direction: column;

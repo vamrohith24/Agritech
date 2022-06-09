@@ -23,8 +23,8 @@
   left: 50%;
   margin-left: -60px;
   width: 120px;
-  height: 34px;
-  line-height: 34px;
+  height: 44px;
+  line-height: 44px;
   border-radius: 6px;
   font-size: 12px;
   color: #232323;
@@ -48,7 +48,7 @@
  }
 
 .news h2 {
-  font-size: 28px;
+  font-size: 18px;
   margin-bottom: 30px;
  }
 

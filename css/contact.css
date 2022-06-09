@@ -1,8 +1,9 @@
 .banner {
   display: block;
   width: 100%;
+  height: 50%;
  }
- 
+
 .news {
   display: flex;
   flex-direction: column;
